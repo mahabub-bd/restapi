@@ -6,10 +6,10 @@
     }
   ],
   "profile": {
-    "Name": "Mahabub Hossain",
-    "Age": 31,
-    "Country": "Bangladesh",
-    "Role": "Frontend Developer",
-    "Github Profile": "https://github.com/mahabub-bd"
+    "name": "Mahabub Hossain",
+    "age": 31,
+    "country": "Bangladesh",
+    "role": "Frontend Developer",
+    "github": "https://github.com/mahabub-bd"
   }
 }
